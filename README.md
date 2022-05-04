@@ -8,3 +8,4 @@ then a new tab pops up. then click the 3 dots now click on "More Settings". now 
 
 # Update
 Added: Entries in the color picker and this update thing
+Deleted old cuz Some bugs so its unsupported cuz of that
